@@ -1,0 +1,15 @@
+# System files
+Thumbs.db
+.DS_Store
+
+# vscode
+.vscode/
+
+# temporary Excel backup files
+~$*
+
+# node_modules (if you later use node)
+node_modules/
+
+# logs
+*.log
